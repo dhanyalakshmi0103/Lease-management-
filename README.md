@@ -1,1 +1,2 @@
 # Lease-management-
+Lease Management System is a digital solution designed to streamline and automate the entire lease lifecycle. It helps organizations efficiently manage property agreements, track lease details, monitor payments, and ensure compliance with contractual obligations. By reducing manual paperwork and errors, the system enhances transparency, saves time, and improves decision-making. This project focuses on creating a user-friendly platform that simplifies operations for both landlords and tenants, ensuring secure, accurate, and hassle-free lease management.
